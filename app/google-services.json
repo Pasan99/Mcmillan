@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979835527694",
+    "project_id": "mcmillan-6a081",
+    "storage_bucket": "mcmillan-6a081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979835527694:android:0ea3c7e950ddfba218925f",
+        "android_client_info": {
+          "package_name": "com.triangle.mcmillan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979835527694-0c17dnqqhhuqlbukmcul5oi3mb3ilv9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA697RZFffECUiiKs053p2AbXr4Bq9iRqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979835527694-0c17dnqqhhuqlbukmcul5oi3mb3ilv9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
